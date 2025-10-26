@@ -32,7 +32,18 @@ To publish your site on GitHub Pages:
 ---
 
 ### 📸 Preview
-_Add a screenshot of your homepage here (optional)_
+
+#### 🏠 Homepage
+![Homepage](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/home.png)
+
+#### 🧊 Our Products
+![Products](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/products.png)
+
+#### ℹ️ About Section
+![About](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/information.png)
+
+#### 💬 Support / Contact
+![Support](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/support.png)
 
 ---
 
