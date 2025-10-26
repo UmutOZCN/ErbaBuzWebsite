@@ -15,17 +15,6 @@ A modern, responsive frontend template designed for **Erba Buz** — a business 
 
 ---
 
-### 🚀 Deployment
-To publish your site on GitHub Pages:
-
-1. Go to **Settings → Pages**  
-2. Under “Branch,” select `main` and folder `/ (root)`  
-3. Click **Save**  
-4. Wait a few minutes — your live site will be available at  
-   👉 [https://UmutOZCN.github.io/ErbaBuzWebsite/](https://UmutOZCN.github.io/ErbaBuzWebsite/)
-
----
-
 ### 📂 Technologies
 `HTML` • `CSS` 
 
