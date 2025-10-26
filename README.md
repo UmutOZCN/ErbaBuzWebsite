@@ -34,16 +34,16 @@ To publish your site on GitHub Pages:
 ### 📸 Preview
 
 #### 🏠 Homepage
-![Homepage](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/home.png)
+![Homepage](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/screenshots/home.png)
 
 #### 🧊 Our Products
-![Products](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/products.png)
+![Products](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/screenshots/products.png)
 
 #### ℹ️ About Section
-![About](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/information.png)
+![About](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/screenshots/information.png)
 
 #### 💬 Support / Contact
-![Support](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/main/screenshots/support.png)
+![Support](https://raw.githubusercontent.com/UmutOZCN/ErbaBuzWebsite/screenshots/support.png)
 
 ---
 
