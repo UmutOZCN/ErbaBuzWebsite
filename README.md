@@ -27,7 +27,7 @@ To publish your site on GitHub Pages:
 ---
 
 ### 📂 Technologies
-`HTML` • `CSS` • `JavaScript`
+`HTML` • `CSS` 
 
 ---
 
