@@ -36,10 +36,12 @@ A modern, responsive frontend template designed for **Erba Buz** — a business 
 
 ---
 
-### 🧾 License
-No license has been added.  
+### 🔑 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 This project is intended as a **business website template** and demonstration for **Erba Buz**.
 
 ---
 
 © 2025 **Erba Buz** — Frontend template created by [UmutOZCN](https://github.com/UmutOZCN).
+
